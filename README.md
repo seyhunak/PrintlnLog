@@ -14,17 +14,17 @@ Just drop PrintlnLog.swift into your "Utilities" folder, by cloning from reposit
     var string = "Test"
     println(string)
         
--------------------PrintLog started at: 41-----------------------
-Filename: ViewController
-Function: viewDidLoad()
-Line: 41
-Object: Test
-Kind: Swift._SwiftNativeNSString
-Type: Swift.String
--------------------PrintLog ended at: 41-------------------------
-
+    -------------------PrintLog started at: 41-----------------------
+    Filename: ViewController
+    Function: viewDidLoad()
+    Line: 41
+    Object: Test
+    Kind: Swift._SwiftNativeNSString
+    Type: Swift.String
+    -------------------PrintLog ended at: 41-------------------------
 
 #### Author
+
 Seyhun Akyürek
 seyhunak [at] gmail.com
 CTO / Senior Developer @usefulideas
