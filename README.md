@@ -5,7 +5,9 @@ PrintlnLog is a super simple log printer for Swift. Heavily influenced from Prin
 
 #### Installation
 
-Just drop PrintlnLog.swift into your "Utilities" folder. That's it!
+Just drop PrintlnLog.swift into your "Utilities" folder, by cloning from repository
+
+    git clone git@github.com:seyhunak/PrintlnLog.git
 
 ### Usage
 
